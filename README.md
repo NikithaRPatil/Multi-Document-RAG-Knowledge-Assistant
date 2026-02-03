@@ -1,2 +1,13 @@
-# Multi-Document-RAG-Knowledge-Assistant
-Built an advanced Retrieval-Augmented Generation system that ingests multiple PDFs/notes, creates embeddings, and answers questions using semantic search with FAISS. Supports multiple documents, chunking strategies, and conversational memory.
+# Multi-Document RAG Assistant
+
+Advanced Retrieval-Augmented Generation chatbot.
+
+## Features
+- Multiple PDF ingestion
+- Vector search (FAISS)
+- Embeddings
+- Conversational QA
+
+## Run
+pip install -r requirements.txt
+python main.py
